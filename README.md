@@ -117,7 +117,7 @@ This repo is primarily a learning reproduction. If you want to suggest improveme
 - I welcome PRs that improve documentation, add reproducible experiments, or fix bugs.
 
 ## License
-Choose and include a license file (e.g., MIT). If you want, add a LICENSE file to the repo.
+See the LICENSE file in the repository for license details.
 
 ## Acknowledgements & references
 - This repository follows the tutorial series by Jonny Code — all credit for the original walkthrough and teaching goes to Jonny Code.
